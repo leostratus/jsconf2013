@@ -386,3 +386,40 @@ section .firefoxos {
 .bespoke-bullet.bespoke-bullet-last-active {
   display: block;
 }
+
+.fake-list{
+  width: 75%;
+  margin: 0 auto;
+}
+
+.fake-list h4{
+  text-align: left;
+  margin-bottom: 3%;
+}
+
+#warning{
+  background: rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  text-align: center;
+  padding: 1% 0;
+  -webkit-transition: opacity .2s ease-out;
+  -moz-transition: opacity .2s ease-out;
+  -o-transition: opacity .2s ease-out;
+  transition: opacity .2s ease-out;
+}
+
+.transparent {
+  opacity: 0;
+}
+
+.animate-in{
+  opacity: 1;
+}
+
+#warning img{
+  float: left;
+}
+
+#warning span{
+  color: #FFF;
+}
