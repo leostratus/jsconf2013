@@ -6,7 +6,7 @@ Special thanks to @glenmaddern. I was inspired by his talk at:
 
 http://geelen.github.io/web-directions-talk/
 
-... and you can clearly see that I've borrowed so very much from it's awesomeness.
+... and you can clearly see that I've borrowed so very much from its awesomeness.
 
 Type is Alegreya for fancy bylines and Tauri all uppercase for everything else.
 
