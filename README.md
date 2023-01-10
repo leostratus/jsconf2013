@@ -14,4 +14,4 @@ Apologies that I don't know the source of all the gifs and images I used. I foun
 
 Cheers,
 
-- Angelina
+- Leo (fka Angelina, a long time ago)
